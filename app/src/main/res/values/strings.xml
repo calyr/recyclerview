@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Singapore</string>
+    <string name="camera">Camera</string>
+    <string name="btn_upload">UPLOAD</string>
+    <string name="btn_discard">DISCARD</string>
+    <string name="btn_login">Login</string>
+</resources>
